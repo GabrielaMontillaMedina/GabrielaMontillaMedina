@@ -70,7 +70,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GabrielaMontilla&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=GabrielaMontillaMedina&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
