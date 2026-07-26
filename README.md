@@ -1,11 +1,13 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
+
 <h1 align="center">Hi 👋, I'm Gabriela Montilla</h1>
-<h3 align="center">Full-Stack Developer | Salesforce Marketing Cloud Developer </h3>
+<h3 align="center">Full-Stack Developer | Salesforce Marketing Cloud Developer</h3>
 
 ---
-###   About Me
+
+### About Me
 
 - 💼 Full-Stack Developer specialized in **Java (Spring Boot), Node.js, React & Vue.js**
 - ☁️ Salesforce Marketing Cloud Developer focused on **automation & personalization**
@@ -35,7 +37,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
 
 #### ☁️ Salesforce Marketing Cloud
 ![SFMC](https://img.shields.io/badge/Salesforce_Marketing_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
@@ -76,7 +77,5 @@
 
 ### 📫 Contact
 
-- 💼 LinkedIn: https://linkedin.com/in/gabriela-montilla-medina-78b976123  
-- 📧 Email: igabymontilla@gmail.com  
-
----
+- 💼 LinkedIn: [linkedin.com/in/gabriela-montilla-medina-78b976123](https://linkedin.com/in/gabriela-montilla-medina-78b976123)  
+- 📧 Email: igabymontilla@gmail.com
